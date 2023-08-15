@@ -1,0 +1,4 @@
+/home/oleg/programming/QT projects/build-third_project-Unnamed-Release/CMakeFiles/third_project.dir
+/home/oleg/programming/QT projects/build-third_project-Unnamed-Release/CMakeFiles/edit_cache.dir
+/home/oleg/programming/QT projects/build-third_project-Unnamed-Release/CMakeFiles/rebuild_cache.dir
+/home/oleg/programming/QT projects/build-third_project-Unnamed-Release/CMakeFiles/third_project_autogen.dir
